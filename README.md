@@ -12,8 +12,8 @@ Sou **Professor EBTT (Dedicação Exclusiva)** no **Instituto Federal do Paraná
 
 ### 🦾 Projetos de Robótica (IFPR Campus Barracão)
 
-* **Robótica Educacional:** Criação de soluções acessíveis para o ensino de programação e eletrônica.
-* **Competições de Elite:** Preparação de equipes para desafios de robótica móvel e autônoma.
+* **Robótica Educacional e sustentável:** Criação de soluções acessíveis para o ensino de programação e eletrônica.
+* **Competições:** Preparação de equipes para desafios de robótica.
 
 ---
 
@@ -21,9 +21,9 @@ Sou **Professor EBTT (Dedicação Exclusiva)** no **Instituto Federal do Paraná
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Python`, `C++`, `SQL` |
+| **Linguagens** | `Python`, `C++` |
 | **Robótica** | `ROS 2`, `Arduino`, `ESP32` |
-| **Bancos de Dados** | `PostgreSQL`, `MySQL`, `SQLite` |
+| **Bancos de Dados** | `PostgreSQL`, `MongoDB` |
 | **Análise & Design** | `SonarQube`, `Figma`, `Wireshark` |
 | **Ferramentas** | `Linux (Ubuntu)`, `Docker`, `Git`, `VCDS` |
 
